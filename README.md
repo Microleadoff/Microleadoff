@@ -1,7 +1,7 @@
 # Bienvenu sur le compte officiel de Microlead !
 
-[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/discord.png">](https://twitter.com/Microlead_off)
-[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/facebook.png">](https://twitter.com/Microlead_off)
-[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/insta.png">](https://twitter.com/Microlead_off)
-[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/linkedin.png">](https://twitter.com/Microlead_off)
+[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/discord.png">](https://discord.gg/skkDr3STAw)
+[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/facebook.png">](https://www.facebook.com/Microleadoff)
+[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/insta.png">](https://www.instagram.com/microlead_off/)
+[<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/linkedin.png">](https://www.linkedin.com/company/microleadoff)
 [<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/twitter.png">](https://twitter.com/Microlead_off)
