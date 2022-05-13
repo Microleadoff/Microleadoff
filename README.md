@@ -1,4 +1,4 @@
-# Bienvenu sur le compte officiel de Microlead !
+## 👋  Bienvenu sur le compte officiel de Microlead !
 
 [<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/discord.png">](https://discord.gg/skkDr3STAw)
 [<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/facebook.png">](https://www.facebook.com/Microleadoff)
