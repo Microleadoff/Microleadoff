@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/LOGO-FINAL-V2.svg" alt="Start UI Web" width="300" /></h1>
+<h1 align="center"><img src="assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></h1>
 
 ## 👋  Bienvenu sur le compte officiel de Microlead !
 
