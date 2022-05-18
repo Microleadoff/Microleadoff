@@ -1,4 +1,4 @@
-[<p align="center"><img src="assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
+[<p align="center"><img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
 
 ## 👋  Bienvenu sur le compte officiel de Microlead !
 
