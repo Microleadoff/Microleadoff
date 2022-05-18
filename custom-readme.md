@@ -1,4 +1,4 @@
-[<p align="center"><img src="assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
+[<p align="center"><img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/LOGO-FINAL-V2.svg" alt="Microlead" width="300" /></p>](https://microlead.fr/)
 
 # NOM_DU_PROJET
 Ce repository contient le starter kit du projet NOM_DU_PROJET disponible sur [Microlead.fr](LIEN_DU_PROJET)
