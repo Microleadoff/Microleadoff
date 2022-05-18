@@ -1,3 +1,5 @@
+<h1 align="center"><img src="assets/images/LOGO-FINAL-V2.svg" alt="Start UI Web" width="300" /></h1>
+
 ## 👋  Bienvenu sur le compte officiel de Microlead !
 
 [<img src="https://github.com/Microleadoff/Microleadoff/blob/main/assets/discord.png">](https://discord.gg/skkDr3STAw)
